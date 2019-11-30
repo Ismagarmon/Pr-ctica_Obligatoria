@@ -1,3 +1,80 @@
+/*Fuentes personalizadas*/
+
+@font-face{
+    font-family: "Titulo";
+    src: url(../Fuentes/ballpark.woff);
+}
+
+@font-face{
+    font-family: "Titulo_2";
+    src: url(../Fuentes/dayrom.woff)
+}
+
+/*Fondo de color de la página*/
+
 body{
     background-color: bisque;
 }
+
+/*Estilo para la barra de navegación*/
+
+#p_1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: "Titulo_2";
+}
+
+/*Estilo para la barra que divide el nav con la sección*/
+
+#hr_1{
+    color: purple;
+}
+
+/*Estilo para el primer bloque*/
+
+#div_1{
+    width: 1820px;
+    height: 300px;
+    border: 2px solid black;
+    padding-left: 2px;
+
+}
+
+/*Estilo para el párrafo que hay dentro de header*/
+
+#p_2{
+    text-align: left;
+    font-size: 50px;
+    font-family: "Titulo";
+}
+
+/*Estilo para la foto que hay dentro de header*/
+
+#imagen_1{
+    position: relative;
+    float: left;
+}
+
+/*Estilo para el bloque de nav*/
+
+#div_2{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
