@@ -103,6 +103,11 @@ body{
     position: relative;
 }
 
+/*Estilo para la foto del artículo*/
+
+#imagen_2{
+    position: left;
+}
 
 
 
