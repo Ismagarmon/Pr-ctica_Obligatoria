@@ -23,6 +23,7 @@ body{
     color: black;
     text-align: center;
     font-family: "Titulo_2";
+    font-size: 30px;
 }
 
 /*Estilo para la barra que divide el nav con la sección*/
@@ -47,6 +48,13 @@ body{
     font-family: "Titulo";
 }
 
+/*Estilo para el parra de header*/
+
+#p_3{
+    font-size: 20px;
+    text-align: left;
+}
+
 /*Estilo para la foto que hay dentro de header*/
 
 #imagen_1{
@@ -59,6 +67,8 @@ body{
 #div_2{
     width: 700px;
     height: 100px;
+    padding-left: 800px;
+    padding-top: 60px;
 }
 
 /*Estilo para la foto que hay después del header*/
@@ -71,6 +81,7 @@ body{
     border-top-right-radius: 9px;
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
+    margin-block-end: 10px;
 }
 
 /*Estilo para el el artículo*/
@@ -79,9 +90,14 @@ body{
     width: 1000px;
     height: 1000px;
     border: 1px solid black;
-
+    margin-left: 10px;
 }
 
+/*Estilo para el párrafo del artículo*/
+
+#p_4{
+    position: relative;
+}
 
 
 
