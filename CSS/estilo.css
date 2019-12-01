@@ -34,6 +34,8 @@ body{
 
 #hr_1{
     color: purple;
+    margin-left: 10px;
+    margin-right: 115px;
 }
 
 /*Estilo para el primer bloque*/
@@ -52,6 +54,7 @@ body{
     font-size: 50px;
     font-family: "Titulo";
     padding-top: 50px;
+    margin-bottom: -20px;
 }
 
 /*Estilo para el parra de header*/
@@ -59,7 +62,6 @@ body{
 #p_3{
     font-size: 20px;
     text-align: left;
-    padding-top: -50px;
 }
 
 /*Estilo para la foto que hay dentro de header*/
@@ -69,33 +71,22 @@ body{
     float: left;
 }
 
-/*Estilo para el párrafo que hay debajo de la foto*/
-
-#div_8{
-    width: 300px;
-    height: 50px;
-    padding-top: -50px;
-}
-
 /*Estilo para el bloque de nav*/
 
 #div_2{
     width: 700px;
     height: 100px;
     padding-left: 700px;
-    padding-top: 0px;
+    padding-top: 80px;
 }
 
-/*Estilo para la foto que hay después del header*/
+/*Estilo para la foto del puente que hay después del header*/
 
 #div_3{
     width: 1699px;
     height: 229px;
     margin-left: 10px;
-    border-top-left-radius: 9px;
-    border-top-right-radius: 9px;
-    border-bottom-left-radius: 9px;
-    border-bottom-right-radius: 9px;
+    border-radius: 3px;
     margin-block-end: 10px;
 }
 
@@ -128,7 +119,7 @@ body{
 /*Estilo para el bloque de aside*/
 
 #div_5{
-    width: 400px;
+    width: 290px;
     height: 550px;
     float: left;
     margin-bottom: 5px;
@@ -148,7 +139,7 @@ body{
 /*Estilo para el bloque dentro de aside*/
 
 #div_6{
-    padding-top: 400px;
+    padding-top: 360px;
 }
 
 /*Estilo para las fotos de dentro de aside*/
@@ -176,11 +167,19 @@ body{
 /*Estilo para la linea que separa el aside y section de footer*/
 
 #linea{
-    margin-top: 570px;
+    margin-top: 585px;
+    margin-left: 10px;
+    margin-right: 115px;
 }
 
+/*Estilo para el bloque de footer*/
 
-
+#div_7{
+    width: 1700px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
 
 
 
