@@ -33,9 +33,9 @@ body{
 /*Estilo para la barra que divide el nav con la sección*/
 
 #hr_1{
-    color: purple;
     margin-left: 10px;
     margin-right: 115px;
+    background-image: url(../Imágenes/line.png);
 }
 
 /*Estilo para el primer bloque*/
