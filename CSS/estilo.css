@@ -91,10 +91,14 @@ body{
 /*Estilo para el el artículo*/
 
 #div_4{
-    width: 1000px;
+    width: 1400px;
     height: 550px;
     border: 1px solid black;
     margin-left: 10px;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-block-end: 10px;
 }
 
 /*Estilo para el párrafo del artículo*/
@@ -113,7 +117,13 @@ body{
 /*Estilo para el bloque de aside*/
 
 #div_5{
-    
+    width: 400px;
+    height: 550px;
+    border: 1px solid black;
+    float: left;
+    margin-bottom: 5px;
+    background-color: gray;
+    border-radius: 10px;
 }
 
 
@@ -123,10 +133,17 @@ body{
     margin-left: 850px;
 }
 
+/*Estilo para el bloque dentro de aside*/
 
+#div_6{
+    padding-top: 470px;
+}
 
+/*Estilo para la linea que separa el aside y section de footer*/
 
-
+#linea{
+    margin-top: 570px;
+}
 
 
 
