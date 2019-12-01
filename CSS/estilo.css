@@ -45,6 +45,7 @@ body{
     height: 300px;
     padding-left: 2px;
     margin-block-end: 5px;
+    margin-left: 10px;
 }
 
 /*Estilo para el párrafo que hay dentro de header*/
@@ -96,6 +97,25 @@ body{
     border: 1px transparent white;
     border-radius: 10px;
 }
+
+/*Estilo para el texto de la imagen que hay después de header*/
+
+.div_11{
+   padding-top: -200px;
+   display: block;
+   position: absolute;
+   bottom: 0px;
+   z-index: 10;
+   background-color: rgba(0, 0, 0, .3);
+   width: 1703px;
+   height: 80px;
+   font-size: 15px;
+   color: white;
+   border: 1px transparent white;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
 /*Estilo para el el artículo*/
 
 #div_4{
