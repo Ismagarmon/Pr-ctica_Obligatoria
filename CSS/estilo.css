@@ -28,6 +28,7 @@ body{
 
 #pre_1{
     font-size: 30px;
+    font-family: "Titulo_2";
 }
 
 /*Estilo para la barra que divide el nav con la sección*/
@@ -108,13 +109,13 @@ body{
    z-index: 10;
    background-color: rgba(0, 0, 0, .3);
    width: 1699px;
-   height: 80px;
+   height: 70px;
    font-size: 15px;
    color: white;
    border: 1px transparent white;
    border-bottom-left-radius: 10px;
    border-bottom-right-radius: 10px;
-   margin-top: -85px
+   margin-top: -75px
 }
 
 /*Estilo para el el artículo*/
