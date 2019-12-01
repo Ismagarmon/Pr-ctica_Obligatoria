@@ -90,6 +90,12 @@ body{
     margin-block-end: 10px;
 }
 
+/*Estilo para el imagen que hay depués de header*/
+
+#imagen_12{
+    border: 1px transparent white;
+    border-radius: 10px;
+}
 /*Estilo para el el artículo*/
 
 #div_4{
@@ -125,7 +131,7 @@ body{
     margin-bottom: 5px;
     background-color: gray;
     border-radius: 10px;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-left: 9px;
 }
 
@@ -136,13 +142,12 @@ body{
     margin-left: 850px;
 }
 
-/*Estilo para el bloque dentro de aside*/
-
-#div_6{
-    padding-top: 360px;
-}
-
 /*Estilo para las fotos de dentro de aside*/
+
+#imagen_11{
+    border: 1px solid white;
+    border-radius: 10px;
+}
 
 #imagen_4{
    margin-right: 9px;
@@ -170,22 +175,88 @@ body{
     margin-top: 585px;
     margin-left: 10px;
     margin-right: 115px;
+    margin-bottom: -5px;
 }
 
 /*Estilo para el bloque de footer*/
 
 #div_7{
     width: 1700px;
-    height: 500px;
-    border: 1px solid black;
+    height: 200px;
     margin-left: 10px;
 }
 
 
+/*Eestilo para el primer bloque de footer*/
 
+#div_8{
+    width: 200px;
+    height: 180px;
+    float: left;
+    margin-right: 80px;
+}
+/*Estilo para el primer párrafo de footer*/
 
+#p_6{
+    text-align: left;
+    font-size: 20px;
+    font-family: "Titulo_2";
+}
 
+/*Estilo para el segundo bloque de footer*/
 
+#div_9{
+  width: 400px;
+  height:180px;
+  float: left;
+  margin-right: 10px;
+}
+
+/*Estilo para las imágenes del segundo bloque de footer*/
+
+#imagen_7{
+   margin-right: 4px;
+   border: 2px solid black;
+}
+
+#imagen_8{
+    margin-right: 4px;
+    border: 2px solid black;
+}
+
+#imagen_9{
+    margin-right: 4px;
+    border: 2px solid black;
+}
+
+#imagen_10{
+    border: 2px solid black;
+}
+
+/*Estilo para el segundo párrafo de footer*/
+
+#p_7{
+    text-align: left;
+    font-size: 20px;
+    font-family: "Titulo_2";
+}
+
+/*Estilo para el tercer bloque de footer*/
+
+#div_10{
+    width: 400px;
+    height: 180px;
+    float: left;
+    border: 1px solid black;
+}
+
+/*Estilo para el tercer párrafo de footer*/
+
+#p_8{
+    text-align: left;
+    font-size: 20px;
+    font-family: "Titulo_2";
+}
 
 
 
