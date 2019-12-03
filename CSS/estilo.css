@@ -232,7 +232,7 @@ body{
   width: 400px;
   height:180px;
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 /*Estilo para las imágenes del segundo bloque de footer*/
@@ -270,7 +270,6 @@ body{
     width: 400px;
     height: 180px;
     float: left;
-    border: 1px solid black;
 }
 
 /*Estilo para el tercer párrafo de footer*/
